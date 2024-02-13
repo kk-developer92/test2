@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.header0{
+    display: flex;
+    justify-content: space-between;
+}
+.box1 img{
+    margin-top: 19px;
+}
+.item2{
+    display: flex;
+    gap: 50px;
+    margin-top: 29px;
+}
+
+.item3{
+    display: flex;
+    margin-top: 30px;
+    gap: 40px;
+}
+.item2 p{
+    font-family: Noto Serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+
+text-align: center;
+
+}
+.hero_banner{
+    margin-top: 36px;
+    background: url(./img/hero-banner\ 2.png) no-repeat center / cover;
+    height: 900px;
+}
+
+.section1 h1{
+    font-family: Noto Serif;
+font-size: 84px;
+font-weight: 700;
+padding-top:285px ;
+margin-bottom: 50px;
+}
+
+.btn{
+    font-family: Noto Serif;
+font-size: 18px;
+font-weight: 500;
+text-align: center;
+background: #FF715B;
+width: 200px;
+height: 60px;
+border: 0;
+cursor: pointer;
+}
+
+.white_box{
+    display: flex;
+    background-color: #fff;
+    height: 134px;
+    width: 1330px;
+    margin-top: 200px;
+    z-index: 2;
+    gap: 60px;
+    box-shadow: 10px 5px 5px rgb(213, 213, 213);
+    margin-right: 250px;
+}
+.boxi_1{
+    display: flex;
+    gap: 141px;
+}
+.it p{
+    font-family: Product Sans;
+font-size: 16px;
+font-weight: 400;
+color:  #A79997;
+padding-top: 45px;
+padding-left: 45px;
+}
+.itemi p{
+    font-family: Noto Serif;
+font-size: 18px;
+font-weight: 600;
+color: #FF715B;
+
+}
+.itemi p {
+    padding-left: 45px;
+}
+.pic img{
+    padding-left:45px;
+}
+
+.btn2{
+    font-family: Noto Serif;
+font-size: 18px;
+font-weight: 500;
+text-align: center;
+background: #FF715B;
+width: 200px;
+height: 60px;
+border: 0;
+cursor: pointer;
+margin-top: 40px;
+
+}
+
+.travel_things{
+    margin-top: 200px;
+    display: flex;
+    gap: 30px;
+}
+.gray{
+    width: 326px;
+    height: 326px;
+    background: #F8F8F8;
+
+}
+.gray2{
+    width: 326px;
+    height: 326px;
+    background: #F8F8F8;
+}
+.gray3{
+    width: 326px;
+    height: 326px;
+    background: #F8F8F8;
+}
+.gray4{
+    width: 326px;
+    height: 326px;
+    background: #F8F8F8;
+}
+.section2{
+    margin-right: 200px;
+    margin-bottom: 270px;
+}
+.gray img{
+padding-top: 30px;
+padding-left: 90px;
+margin-bottom: 10px;
+}
+.gray h3{
+    font-family: Noto Serif;
+font-size: 24px;
+font-weight: 700;
+margin-bottom: 20px;
+text-align: center;
+}
+.gray p{
+    font-family: Product Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+}
+.gray2 img{
+    padding-top: 44px;
+    padding-left: 103px;
+    margin-bottom: 24px;
+}
+.gray2 h3{
+    font-family: Noto Serif;
+font-size: 24px;
+font-weight: 700;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: center;
+margin-bottom: 20px;
+}
+.gray2 p{
+    font-family: Product Sans;
+font-size: 18px;
+font-weight: 400;
+text-align: center;
+
+}
+.gray3 img{
+    padding-top: 44px;
+    padding-left: 109px;
+    margin-bottom: 24px;
+}
+
+.gray3 h3{
+    font-family: Noto Serif;
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+
+}
+.gray3 p{
+    font-family: Product Sans;
+font-size: 18px;
+font-weight: 400;
+
+text-align: center;
+
+}
+.gray4 img{
+    padding-top: 44px;
+    padding-left: 103px;
+    margin-bottom: 24px;
+}
+.gray4 h3{
+    font-family: Noto Serif;
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+
+}
+.gray4 p{
+    font-family: Product Sans;
+font-size: 18px;
+font-weight: 400;
+text-align: center;
+
+}
+.main{
+    display: flex;
+   gap: 60px;
+}
+.head2{
+    display: flex;
+    gap: 60px;
+}
+.head h1{
+    font-family: Noto Serif;
+font-size: 38px;
+font-weight: 800;
+margin-bottom: 40px;
+}
+.head p{
+    font-family: Product Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #A79997;
+
+}
+.btn3{
+    font-family: Noto Serif;
+font-size: 18px;
+font-weight: 500;
+text-align: center;
+background: #FF715B;
+width: 200px;
+height: 60px;
+border: 0;
+cursor: pointer;
+margin-top: 20px;
+}
+
+.section4{
+    margin-top: 180px;
+}
+.end{
+    margin-top: 200px;
+    margin-bottom: 180px;
+}
